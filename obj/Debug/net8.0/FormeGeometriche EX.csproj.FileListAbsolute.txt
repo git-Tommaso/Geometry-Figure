@@ -1,0 +1,30 @@
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.exe
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.deps.json
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.runtimeconfig.json
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.pdb
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.AssemblyInfoInputs.cache
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.AssemblyInfo.cs
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.sourcelink.json
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\refint\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.pdb
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.genruntimeconfig.cache
+C:\Users\Tommaso\Desktop\FormeGeometriche EX\obj\Debug\net8.0\ref\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.exe
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.deps.json
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.runtimeconfig.json
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\bin\Debug\net8.0\FormeGeometriche EX.pdb
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.AssemblyInfoInputs.cache
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.AssemblyInfo.cs
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.sourcelink.json
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\refint\FormeGeometriche EX.dll
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.pdb
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\FormeGeometriche EX.genruntimeconfig.cache
+C:\Users\Tommaso\Desktop\C#\Esercizzi C#\FormeGeometriche EX\obj\Debug\net8.0\ref\FormeGeometriche EX.dll
